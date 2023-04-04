@@ -1602,7 +1602,7 @@ label {
 
 /***** Recent Activity *****/
 .recent-activity {
-	height: 410px;
+	height: 400px;
 	overflow-y: scroll;
 	width: 100%;
 	overflow-x: hidden;
