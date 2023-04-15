@@ -1862,7 +1862,7 @@ img.sticky-close {
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	background: url('../img/btn-img.png');
+	background: #ff9900;
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-weight: 400;
