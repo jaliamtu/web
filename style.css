@@ -1800,6 +1800,7 @@ img.sticky-close {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	padding: 10px 20px;
+        color: #000;
 }
 #livechatInputChatUserName {
 	width: 100%;
