@@ -2159,3 +2159,46 @@ footer a.popup-link, footer a.popup-link:visited {
 .centered-content {
 	display: contents;
 }
+.footer{
+  height: 100px;
+  width: 100%;
+  background-color: #000;
+  margin-top: 0px;
+  position: relative;
+  overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.bg-conent-footer{
+  width:100%;
+  text-align: center;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  
+}
+.content-footer{
+	position: relative;
+    top: 40px;
+    height: 200px;
+    width: 100%;
+    background-color:#00000091;
+    
+}
+.txftr {
+    max-width: 800px;
+   
+    display: block;
+    margin: auto;
+    width: 90%;
+    color: #e2e2e2;
+    position: relative;
+    top: 20px;
+    font-size: 10px;
+}
+.logoDown{
+  position: relative;
+  max-width: 230px;
+  margin-top: 10px;
+  opacity: 1;
+}
