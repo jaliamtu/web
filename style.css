@@ -2179,7 +2179,7 @@ footer a.popup-link, footer a.popup-link:visited {
 }
 .content-footer{
 	position: relative;
-    top: 40px;
+    top: 15px;
     height: 200px;
     width: 100%;
     background-color:#00000091;
